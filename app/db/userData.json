@@ -1,13 +1,37 @@
 {
   "nickname": "Husk",
   "socialLinks": [
-    { "iconClass": "icon-[ri--github-fill]", "url": "https://www.github.com/arrowboy47" },
-    { "iconClass": "icon-[ri--music-2-fill]", "url": "https://www.last.fm/user/SoyMilk123456" },
-    { "iconClass": "icon-[simple-icons--homarr]", "url": "https://homarr.thebigbox.duckdns.org" },
-    { "iconClass": "icon-[ri--mail-fill]", "url": "https://mail.google.com/mail/u/0/#inbox" },
-    { "iconClass": "icon-[ri--dashboard-fill]", "url": "http://104.168.7.21:3333/" },
-    { "iconClass": "icon-[solar--book-bold]", "url": "http://104.168.7.21:3000/books" },
-    { "iconClass": "icon-[ri--cup-fill]", "url": "http://104.168.7.21" },
-    { "iconClass": "icon-[game-icons--triforce]", "url": "https://mywebsite-rho-blond.vercel.app/" }
+    {
+      "iconClass": "icon-[ri--github-fill]",
+      "url": "https://www.github.com/arrowboy47"
+    },
+    {
+      "iconClass": "icon-[ri--music-2-fill]",
+      "url": "https://www.last.fm/user/SoyMilk123456"
+    },
+    {
+      "iconClass": "icon-[simple-icons--homarr]",
+      "url": "https://homarr.thebigbox.duckdns.org"
+    },
+    {
+      "iconClass": "icon-[ri--mail-fill]",
+      "url": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "iconClass": "icon-[ri--dashboard-fill]",
+      "url": "http://104.168.7.21:3333/"
+    },
+    {
+      "iconClass": "icon-[solar--book-bold]",
+      "url": "http://104.168.7.21:3000/books"
+    },
+    {
+      "iconClass": "icon-[ri--cup-fill]",
+      "url": "http://104.168.7.21/coffee"
+    },
+    {
+      "iconClass": "icon-[game-icons--triforce]",
+      "url": "https://mywebsite-rho-blond.vercel.app/"
+    }
   ]
 }
