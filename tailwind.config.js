@@ -4,12 +4,12 @@ module.exports = {
   content: ["./app/**/*.{html,js,json}"],
   safelist: [
     "icon-[ri--github-fill]",
-    "icon-[ri--spotify-fill]",
+    "icon-[ri--music-2-fill]",
     "icon-[simple-icons--homarr]",
     "icon-[ri--mail-fill]",
-    "icon-[simple-icons--anthropic]",   
+    "icon-[ri--dashboard-fill]",   
     "icon-[solar--book-bold]",
-    "icon-[ph--microsoft-outlook-logo-light]",
+    "icon-[ri--cup-fill]",
     "icon-[game-icons--triforce]",
   ],
   theme: {
