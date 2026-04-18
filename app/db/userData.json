@@ -1,13 +1,13 @@
 {
-  "nickname": "kaloslazo",
+  "nickname": "Husk",
   "socialLinks": [
-    { "iconClass": "icon-[ri--github-fill]", "url": "https://www.github.com/kaloslazo" },
-    { "iconClass": "icon-[ri--spotify-fill]", "url": "https://www.reddit.com" },
-    { "iconClass": "icon-[ri--twitter-x-fill]", "url": "https://www.twitter.com" },
-    { "iconClass": "icon-[ri--mail-fill]", "url": "https://www.spotify.com" },
-    { "iconClass": "icon-[ri--youtube-fill]", "url": "https://www.youtube.com" },
-    { "iconClass": "icon-[ri--linkedin-box-fill]", "url": "https://www.linkedin.com" },
-    { "iconClass": "icon-[ri--newspaper-fill]", "url": "https://www.mail.google.com" },
-    { "iconClass": "icon-[ri--youtube-fill]", "url": "https://www.xataka.com" }
+    { "iconClass": "icon-[ri--github-fill]", "url": "https://www.github.com/arrowboy47" },
+    { "iconClass": "icon-[ri--coffee-fill]", "url": "http://104.168.7.21/" },
+    { "iconClass": "icon-[simple-icons--homarr]", "url": "https://homarr.thebigbox.duckdns.org" },
+    { "iconClass": "icon-[ri--mail-fill]", "url": "https://mail.google.com/mail/u/0/#inbox" },
+    { "iconClass": "icon-[simple-icons--anthropic]", "url": "https://claude.ai" },
+    { "iconClass": "icon-[solar--book-bold]", "url": "http://104.168.7.21:3000/books" },
+    { "iconClass": "icon-[ph--microsoft-outlook-logo-light]", "url": "https://outlook.office.com/" },
+    { "iconClass": "icon-[game-icons--triforce]", "url": "https://mywebsite-rho-blond.vercel.app/" }
   ]
 }
